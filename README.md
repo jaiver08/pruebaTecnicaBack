@@ -23,9 +23,9 @@ Con ese comando tenemos información en la base de datos y ya podemos ejecutar e
 
 Ya con eso podemos consumir los servicios desde postman.
 
-Listar      <b>http://127.0.0.1:8000/api/v1/ticket/</b> {GET}
-ver         <b>http://127.0.0.1:8000/api/v1/ticket/{id}</b> {GET}
-crear       <b>http://127.0.0.1:8000/api/v1/ticket/</b> {POST}
-actualizar  <b>http://127.0.0.1:8000/api/v1/ticket/{id}</b> {PUT}
-eliminar    <b>http://127.0.0.1:8000/api/v1/ticket/{id}</b> {DELETE}
-recuperar   <b>http://127.0.0.1:8000/api/v1/ticket/reconstruct/{id}</b> {GET}
+Listar      <b>http://127.0.0.1:8000/api/v1/ticket/</b> {GET} </br>
+ver         <b>http://127.0.0.1:8000/api/v1/ticket/{id}</b> {GET} </br>
+crear       <b>http://127.0.0.1:8000/api/v1/ticket/</b> {POST} </br>
+actualizar  <b>http://127.0.0.1:8000/api/v1/ticket/{id}</b> {PUT} </br>
+eliminar    <b>http://127.0.0.1:8000/api/v1/ticket/{id}</b> {DELETE} </br>
+recuperar   <b>http://127.0.0.1:8000/api/v1/ticket/reconstruct/{id}</b> {GET} </br>
